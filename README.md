@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ManoranjanKumar664
+- 👋 Hi, I’m @ManoranjanKumar
 - 👀 I’m interested in coding and learning new computer hacks.
 - 🌱 I’m currently learning data structure in c++.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my projects.
 - 📫 How to reach me @baskeymanoranjan400@gmail.com
 
 <!---
