@@ -16,4 +16,4 @@ Thanks for visiting my GitHub profile, I hope you are doing well.
 
 ⚡ Fun fact: I laugh a lot lonely because as you know, Laughing is the best medicine.
 
-😢 Biggest mistake: I didn't backup my data and one day, the system crashed and I lost most of my precious data.
+😢 Biggest mistake: I didn't backup my data and one day, the system crashed and I lost all of my precious data.
