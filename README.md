@@ -3,7 +3,9 @@ Hii there!! 👋👋
 Thanks for visiting my GitHub profile, I hope you are doing well.
 
 🔭 Want to be a software developer, lead technical team.
+
 🕵️‍♀️ I like doing quality work over quantity, so I give my precious time to Coding.
+
 🧸 I'm proud of who I am, what I have built, and what I am building.
 
 🧑‍💻 Didn'nt know about Coding till 9 std but now it has become my passion.
