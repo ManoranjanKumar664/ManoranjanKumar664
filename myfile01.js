@@ -1,0 +1,25 @@
+let mano;
+console.log(mano);
+let mano2=Math.floor(Math.random()*10);
+console.log(mano2);
+var mano3=Math.round(49.3);
+console.log(mano3);
+var mano4=Math.round(49.5);
+console.log(mano4);
+var mano5=Math.ceil(49.6);
+console.log(mano5);
+var mano6=Math.ceil(49.3);
+console.log(mano6);
+var mano7=Math.floor(93.9);
+console.log(mano7);
+var mano8=Math.floor(93.2);
+console.log(mano8);
+var mano9=Math.trunc(49.3);
+console.log(mano9);
+var mano10=Math.trunc(49.9);
+console.log(mano10);
+let mano11=Math.max(99,49,39,10,40);
+console.log(mano11);
+let mano12=Math.min(9,8,7);
+console.log(mano12);
+let mano13=Math
