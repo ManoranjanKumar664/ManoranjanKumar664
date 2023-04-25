@@ -1,13 +1,13 @@
-class c1<mano>
+class mano<datatype>
 {
-    mano a;
-    void take(mano x)
+    datatype d;
+    void get(datatype dt)
     {
-        a=x;
+        d=dt;
     }
-    void show()
+    void put()
     {
-        System.out.println(a);
+        System.out.println(d);
     }
 };
 
@@ -15,8 +15,8 @@ public class mano01
 {
     public static void main(String []args)
     {
-        c1 a;
-        a.take(4);
-        a.show();
+        mano<String> m1=new mano<String>();
+        m1.get("baskey");
+        m1.put();
     }
 }
