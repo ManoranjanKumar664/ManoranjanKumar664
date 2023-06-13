@@ -12,7 +12,7 @@ Thanks for visiting my GitHub profile, I hope you are doing well.
 
 ■ 📫 I don't like talking.So better to reach me through email @baskeymanoranjan400@gmail.com or call me on 7481848068.
 
-■ 😎 Hobby: Watching movie.
+■ 😎 Hobby: Watching movies and Coding.
 
 ■ ⚡ Fun fact: I laugh a lot lonely because as you know, Laughing is the best medicine.
 
